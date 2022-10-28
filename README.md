@@ -1,10 +1,12 @@
 # James Graham
-[![Website]][lt_website]
-[![LinkedIn]][lt_linkedin]
-[![Email]][lt_email]
 
 I'm a software engineer and web developer specializing in realtime audio & graphics. I create all of my projects from the ground up, including planning, graphic & sound design, coding, debugging & optimizing, and hosting.
 
+<br>
+
+[![Website]][lt_website]
+[![LinkedIn]][lt_linkedin]
+[![Email]][lt_email]
 
 
 ## ⌨️ Languages and Libraries I've Used
